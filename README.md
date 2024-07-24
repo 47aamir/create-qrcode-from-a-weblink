@@ -1,6 +1,6 @@
 To create a QR code for a weblink using Python, you can use the `qrcode` library. Here's a step-by-step guide:
 
-1. **Install the `qrcode` and `Pillow` libraries**:
+1. **Install the `qrcode` library**:
    ```sh
    pip install qrcode[pil]
    ```
